@@ -1,0 +1,3 @@
+chaoschain-sdk
+eth-account
+requests
